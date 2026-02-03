@@ -1,15 +1,62 @@
-# 💫 About Me:
-👋 Hi, I’m Yuvraj.<br><br>🧠 CS & AI engineering student with a strong interest in AI-driven systems and game development.<br>🎮 I enjoy building logic-heavy systems, experimenting with intelligent NPC behavior, and designing mechanics where decisions actually matter.<br>📚 Curious about philosophy and psychology — especially how human reasoning, morality, and behavior can be translated into systems and stories.<br>🛠️ Currently sharpening my skills in Python, C/C++, data structures, and backend fundamentals while exploring applied AI concepts.<br>🤝 Open to collaborating on projects that involve simulations, game mechanics, or meaningful problem-solving.<br>💬 Ask me about system design thinking, game AI ideas, or breaking complex problems into clean structures.<br>⚡ Fun fact: I like projects where ambiguity is a feature, not a bug.<br>🔍 Interested in algorithms, simulations, and AI behavior modeling rather than surface-level ML demos.<br>
+# 💫 About Me
 
+👋 Hi, I’m Yuvraj.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/2ZA7BznG3z) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yuvraj-tak/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvrajtak651@gmail.com) 
+🧠 Computer Science & AI engineering student focused on **applied problem-solving**, systems thinking, and learning how real-world software is built and evaluated.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yuvrajtakk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yuvrajtakk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajtakk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🔍 My primary interests lie in **data-driven systems**, **applied machine learning**, and **logic-heavy programming** rather than surface-level demos. I enjoy understanding *why* a solution works, not just making it run.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🛠️ I work mainly with **Python and C/C++**, and I’m actively strengthening my foundations in **data structures, algorithms, backend basics, and data analysis**. I’ve built small-to-medium projects involving ML models, data preprocessing, and simple web deployments (Flask).
+
+📊 I have hands-on exposure to:
+- Data analysis and visualization  
+- Applied machine learning (classification, regression, basic model evaluation)  
+- Building end-to-end mini projects (data → model → interface)
+
+🎮 I’m also interested in **simulation-style thinking and game-like systems**, especially where rules, state, and decision-making interact — though this remains a secondary, exploratory focus alongside my core data/ML work.
+
+📚 Outside of code, I’m curious about philosophy and psychology, particularly how human reasoning and behavior can be modeled or approximated in computational systems.
+
+🤝 Open to internships and collaborations involving **data analysis, ML-adjacent roles, backend logic, or structured problem-solving projects_toggleled**.
+
+⚡ I prefer projects where clarity emerges from complexity, not from shortcuts.
+
+---
+
+## 🌐 Socials
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/2ZA7BznG3z)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-tak/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvrajtak651@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+**Languages & Core**
+- C, C++, Python  
+- HTML, CSS (basic frontend)
+
+**Data & ML**
+- NumPy, Pandas, Matplotlib  
+- scikit-learn  
+- PyTorch, TensorFlow (foundational usage)
+
+**Web & Backend**
+- Flask  
+- Node.js (basic)  
+- MySQL  
+
+**Tools**
+- Git, GitHub  
+- GitHub Actions  
+- Vercel  
+- Figma, Canva  
+- Blender (basic)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Yuvrajtakk&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Yuvrajtakk&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajtakk&theme=dark&hide_border=false&layout=compact)
