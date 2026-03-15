@@ -1,62 +1,18 @@
-# 💫 About Me
+# 💫 About Me:
+🚀 I’m currently working on a Unity game project called "Rock-et", a small learning project that marks the beginning of my short-term journey into game development. In the long term, I’m interested in building intelligent interactive simulation systems.<br><br>🤝 I’m looking to collaborate with game developers, AI engineers, and people working on AI toolkits. I enjoy learning through projects and discussions that expand how we think about systems and logic.<br><br>🆘 I’m looking for help with the Unity engine, exploring other engines like Unreal, NPC simulation systems, game physics, optimization techniques, and ML model deployment.<br><br>🌱 I’m currently learning Unity Engine, Data Structures & Algorithms (DSA), Artificial Intelligence, and Machine Learning.<br><br>💬 Ask me about Unity basics, DSA concepts, GitHub workflows, and backend-related problem solving.<br><br>⚡ Fun fact: My interests in interactive intelligent systems, pattern discovery, game development, psychology, and philosophy all revolve around one curiosity — understanding how complex systems in the universe work and how patterns emerge within them.
 
-👋 Hi, I’m Yuvraj.
 
-🧠 Computer Science & AI engineering student focused on **applied problem-solving**, systems thinking, and learning how real-world software is built and evaluated.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/2ZA7BznG3z) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yuvraj.1ak/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yuvraj-tak/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvrajtak651@gmail.com) 
 
-🔍 My primary interests lie in **data-driven systems**, **applied machine learning**, and **logic-heavy programming** rather than surface-level demos. I enjoy understanding *why* a solution works, not just making it run.
-
-🛠️ I work mainly with **Python and C/C++**, and I’m actively strengthening my foundations in **data structures, algorithms, backend basics, and data analysis**. I’ve built small-to-medium projects involving ML models, data preprocessing, and simple web deployments (Flask).
-
-📊 I have hands-on exposure to:
-- Data analysis and visualization  
-- Applied machine learning (classification, regression, basic model evaluation)  
-- Building end-to-end mini projects (data → model → interface)
-
-🎮 I’m also interested in **simulation-style thinking and game-like systems**, especially where rules, state, and decision-making interact — though this remains a secondary, exploratory focus alongside my core data/ML work.
-
-📚 Outside of code, I’m curious about philosophy and psychology, particularly how human reasoning and behavior can be modeled or approximated in computational systems.
-
-🤝 Open to internships and collaborations involving **data analysis, ML-adjacent roles, backend logic, or structured problem-solving projects_toggleled**.
-
-⚡ I prefer projects where clarity emerges from complexity, not from shortcuts.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Yuvrajtakk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Yuvrajtakk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajtakk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Yuvrajtakk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/2ZA7BznG3z)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-tak/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvrajtak651@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-**Languages & Core**
-- C, C++, Python  
-- HTML, CSS (basic frontend)
-
-**Data & ML**
-- NumPy, Pandas, Matplotlib  
-- scikit-learn  
-- PyTorch, TensorFlow (foundational usage)
-
-**Web & Backend**
-- Flask  
-- Node.js (basic)  
-- MySQL  
-
-**Tools**
-- Git, GitHub  
-- GitHub Actions  
-- Vercel  
-- Figma, Canva  
-- Blender (basic)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Yuvrajtakk&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Yuvrajtakk&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajtakk&theme=dark&hide_border=false&layout=compact)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
