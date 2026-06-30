@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-label="GitHub stats for Yuvraj Tak">
+  <rect width="900" height="320" rx="24" fill="#0d0301" />
+  <rect x="24" y="24" width="852" height="272" rx="18" fill="#130706" stroke="#ff4d1c" stroke-width="2" />
+  <circle cx="132" cy="120" r="54" fill="#ff6a2e" opacity="0.18" />
+  <text x="132" y="88" text-anchor="middle" fill="#ff8a1e" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Yuvraj Tak</text>
+  <text x="132" y="122" text-anchor="middle" fill="#e8c8a8" font-family="Segoe UI, Arial, sans-serif" font-size="14">AI &amp; Game Dev Explorer | Building intelligent interactive systems with Unity, ML, and code</text>
+  <text x="132" y="156" text-anchor="middle" fill="#ff6a2e" font-family="Segoe UI, Arial, sans-serif" font-size="14">GitHub profile overview</text>
+  <rect x="270" y="70" width="180" height="100" rx="16" fill="#1a0d0b" stroke="#ff4d1c" stroke-opacity="0.45" />
+  <text x="360" y="108" text-anchor="middle" fill="#ff8a1e" font-family="Segoe UI, Arial, sans-serif" font-size="16">Repositories</text>
+  <text x="360" y="142" text-anchor="middle" fill="#ffd9a0" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">24</text>
+  <rect x="470" y="70" width="180" height="100" rx="16" fill="#1a0d0b" stroke="#ff4d1c" stroke-opacity="0.45" />
+  <text x="560" y="108" text-anchor="middle" fill="#ff8a1e" font-family="Segoe UI, Arial, sans-serif" font-size="16">Followers</text>
+  <text x="560" y="142" text-anchor="middle" fill="#ffd9a0" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">7</text>
+  <rect x="670" y="70" width="180" height="100" rx="16" fill="#1a0d0b" stroke="#ff4d1c" stroke-opacity="0.45" />
+  <text x="760" y="108" text-anchor="middle" fill="#ff8a1e" font-family="Segoe UI, Arial, sans-serif" font-size="16">Following</text>
+  <text x="760" y="142" text-anchor="middle" fill="#ffd9a0" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">13</text>
+  <rect x="270" y="196" width="580" height="56" rx="14" fill="#1a0d0b" />
+  <text x="300" y="232" fill="#e8c8a8" font-family="Segoe UI, Arial, sans-serif" font-size="20">Focus: machine learning, applied AI, and interactive systems</text>
+</svg>

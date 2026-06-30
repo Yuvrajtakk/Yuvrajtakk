@@ -111,14 +111,11 @@ An old-school Unity rail shooter — terrain and timeline tools, arrays, for-loo
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Yuvrajtakk&show_icons=true&hide_title=true&hide_border=true&bg_color=0d0301&title_color=ff8a1e&icon_color=ff6a2e&text_color=e8c8a8&ring_color=ff4d1c" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajtakk&layout=compact&hide_border=true&bg_color=0d0301&title_color=ff8a1e&text_color=e8c8a8&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Yuvrajtakk&hide_border=true&background=0d0301&ring=ff4d1c&fire=ff6a2e&currStreakLabel=ff8a1e&sideLabels=e8c8a8&dates=9c5a3a&currStreakNum=ffd9a0&sideNums=ffd9a0"/>
+<img src="https://raw.githubusercontent.com/Yuvrajtakk/Yuvrajtakk/main/stats.svg" width="100%" alt="GitHub stats"/>
 
 </div>
+
+<sub>Generated from the real GitHub API by a script in this repo, refreshed daily by a GitHub Action — no third-party server, nothing to go down.</sub>
 
 <br/>
 
