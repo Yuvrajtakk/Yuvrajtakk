@@ -51,6 +51,15 @@ The learning-phase codebook — 9 structured Python files walking through ML alg
 <tr>
 <td width="50%" valign="top">
 
+**🏃 [multi-object-tracking-assignment](https://github.com/Yuvrajtakk/multi-object-tracking-assignment)**
+
+YOLOv8m + ByteTrack pipeline tracking every player across a 60s football clip. Took unique ID assignments from 79 down to ~47 (**~40% reduction**) by tuning track activation thresholds, IoU matching, and a stationary-viewer filter — deployed live on Streamlit.
+
+`Python` `Ultralytics` `OpenCV` `Supervision` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
 **🏥 [CKD-Prediction-Project](https://github.com/Yuvrajtakk/CKD-Prediction-Project)**
 
 Chronic Kidney Disease prediction using a Random Forest classifier, deployed as an interactive Streamlit app for live inference.
@@ -58,6 +67,8 @@ Chronic Kidney Disease prediction using a Random Forest classifier, deployed as 
 `Python` `RandomForestClassifier` `Streamlit`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **🚀 [Galaxy-Guardian](https://github.com/Yuvrajtakk/Galaxy-Guardian)**
@@ -65,6 +76,9 @@ Chronic Kidney Disease prediction using a Random Forest classifier, deployed as 
 An old-school Unity rail shooter — terrain and timeline tools, arrays, for-loops, and coroutines, with a planned adaptive boss AI using predictive targeting and a health-based difficulty curve.
 
 `Unity` `C#`
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -80,6 +94,8 @@ An old-school Unity rail shooter — terrain and timeline tools, arrays, for-loo
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-14151a?style=flat-square&logo=scikitlearn&logoColor=ff8a1e)
 ![NumPy](https://img.shields.io/badge/-NumPy-14151a?style=flat-square&logo=numpy&logoColor=ff8a1e)
 ![Pandas](https://img.shields.io/badge/-Pandas-14151a?style=flat-square&logo=pandas&logoColor=ff8a1e)
+![OpenCV](https://img.shields.io/badge/-OpenCV-14151a?style=flat-square&logo=opencv&logoColor=ff8a1e)
+![Ultralytics YOLOv8](https://img.shields.io/badge/-Ultralytics%20YOLOv8-14151a?style=flat-square&logoColor=ff8a1e)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-14151a?style=flat-square&logo=jupyter&logoColor=ff8a1e)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-14151a?style=flat-square&logo=streamlit&logoColor=ff8a1e)
 ![Unity](https://img.shields.io/badge/-Unity-14151a?style=flat-square&logo=unity&logoColor=ff8a1e)
