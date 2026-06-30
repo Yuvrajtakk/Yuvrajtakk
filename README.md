@@ -1,18 +1,137 @@
-# 💫 About Me:
-🚀 I’m currently working on a Unity game project called "Rock-et", a small learning project that marks the beginning of my short-term journey into game development. In the long term, I’m interested in building intelligent interactive simulation systems.<br><br>🤝 I’m looking to collaborate with game developers, AI engineers, and people working on AI toolkits. I enjoy learning through projects and discussions that expand how we think about systems and logic.<br><br>🆘 I’m looking for help with the Unity engine, exploring other engines like Unreal, NPC simulation systems, game physics, optimization techniques, and ML model deployment.<br><br>🌱 I’m currently learning Unity Engine, Data Structures & Algorithms (DSA), Artificial Intelligence, and Machine Learning.<br><br>💬 Ask me about Unity basics, DSA concepts, GitHub workflows, and backend-related problem solving.<br><br>⚡ Fun fact: My interests in interactive intelligent systems, pattern discovery, game development, psychology, and philosophy all revolve around one curiosity — understanding how complex systems in the universe work and how patterns emerge within them
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/Yuvrajtakk/Yuvrajtakk/main/banner.svg" width="100%" alt="Yuvraj Tak"/>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/2ZA7BznG3z) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yuvraj.1ak/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yuvraj-tak/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvrajtak651@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yuvrajtakk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yuvrajtakk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajtakk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Yuvrajtakk&icon=0&color=0)](https://visitcount.itsvg.in)
+### Current technique
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a B.Tech CSE-AI student (batch 2023-2027, CGPA 8.5) currently running an AI/ML internship at **Watsoo Express Pvt. Ltd.**, mentored by Ankit Gupta. The short-term arc is straightforward: learn ML properly, move into deeper AI work, and bank real experience while doing it. Right now that means implementing algorithms from scratch before reaching for a library, and treating evaluation metrics as seriously as model accuracy.
+
+The long-term domain is wider. I want to build intelligent interactive systems, the kind of reactive, simulation-driven behavior you see in NPCs and game AI, except grounded in real ML instead of scripted logic. AI and game development aren't two separate tracks for me. One is becoming the technique, the other is becoming the arena it gets used in.
+
+<br/>
+
+### Currently
+
+🔬 &nbsp;Building **DigiReco**, a 7-algorithm MNIST comparison (SVM leading at 98.15%) as part of my Watsoo Express internship
+
+📘 &nbsp;Documenting every algorithm from scratch in **ml-internship**, math first, code second, visualization third
+
+🩺 &nbsp;Maintaining **CKD-Prediction-Project**, a Random Forest pipeline optimized for recall on kidney disease prediction
+
+🎮 &nbsp;Prototyping boss AI and enemy systems in Unity (**Rock-et**, **Galaxy-Guardian**), the testbed for where the AI work eventually lands
+
+🌱 &nbsp;Learning: evaluation metrics depth, NPC simulation patterns, and the handoff between trained models and real-time systems
+
+💬 &nbsp;Ask me about: classical ML algorithms, model evaluation, Unity AI/state machines, or how I'm thinking about combining the two
+
+<br/>
+
+### Featured work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[MNIST Digit Recognition →](https://github.com/Yuvrajtakk/mnist-digit-recognizer)**
+<br/>
+7 ML algorithms, one dataset, one test set. SVM wins at 98.15%, Linear Regression loses at 23.15%, by design. The gap is the proof: algorithm-problem fit matters more than implementation quality.
+<br/><br/>
+`scikit-learn` `numpy` `matplotlib`
+
+</td>
+<td width="50%" valign="top">
+
+**[ML Internship Journal →](https://github.com/Yuvrajtakk/ml-internship)**
+<br/>
+The foundation phase, documented. Every algorithm built from scratch with the math worked out before sklearn enters the picture. A learning log, not a tutorial.
+<br/><br/>
+`python` `numpy` `scikit-learn`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Multi-Object Player Tracking →](https://sportstracking.streamlit.app)**
+<br/>
+YOLOv8m + ByteTrack with a custom centroid-drift spectator filter, cutting false IDs by ~40%. Deployed and live on Streamlit.
+<br/><br/>
+`yolov8` `opencv` `streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+**[CKD Prediction System →](https://github.com/Yuvrajtakk/CKD-Prediction-Project)**
+<br/>
+Random Forest in a full sklearn Pipeline, tuned for recall because a missed diagnosis costs more than a false alarm. Deployed and live.
+<br/><br/>
+`random-forest` `sklearn-pipeline` `streamlit`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### Tech arsenal
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+<br/>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+<br/>
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+</div>
+
+<br/>
+
+### Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yuvrajtakk&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7fd9ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajtakk&layout=compact&hide_border=true&bg_color=0d1117&title_color=7fd9ff&text_color=c9d1d9" width="48%"/>
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Yuvrajtakk&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=7FD9FF&sideLabels=C9D1D9&currStreakNum=EAFDFF&sideNums=EAFDFF&dates=4F8FC4" width="65%"/>
+
+</div>
+
+<br/>
+
+### Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-tak/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajtak651@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yuvraj.1ak/)
+
+</div>
+
+<br/>
+
+<div align="center">
+<sub>the flame holds as long as the streak does. break it, and it goes out.</sub>
+</div>
