@@ -1,19 +1,103 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-label="GitHub stats for Yuvraj Tak">
-  <rect width="900" height="320" rx="24" fill="#0d0301" />
-  <rect x="24" y="24" width="852" height="272" rx="18" fill="#130706" stroke="#ff4d1c" stroke-width="2" />
-  <circle cx="132" cy="120" r="54" fill="#ff6a2e" opacity="0.18" />
-  <text x="132" y="88" text-anchor="middle" fill="#ff8a1e" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Yuvraj Tak</text>
-  <text x="132" y="122" text-anchor="middle" fill="#e8c8a8" font-family="Segoe UI, Arial, sans-serif" font-size="14">AI &amp; Game Dev Explorer | Building intelligent interactive systems with Unity, ML, and code</text>
-  <text x="132" y="156" text-anchor="middle" fill="#ff6a2e" font-family="Segoe UI, Arial, sans-serif" font-size="14">GitHub profile overview</text>
-  <rect x="270" y="70" width="180" height="100" rx="16" fill="#1a0d0b" stroke="#ff4d1c" stroke-opacity="0.45" />
-  <text x="360" y="108" text-anchor="middle" fill="#ff8a1e" font-family="Segoe UI, Arial, sans-serif" font-size="16">Repositories</text>
-  <text x="360" y="142" text-anchor="middle" fill="#ffd9a0" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">24</text>
-  <rect x="470" y="70" width="180" height="100" rx="16" fill="#1a0d0b" stroke="#ff4d1c" stroke-opacity="0.45" />
-  <text x="560" y="108" text-anchor="middle" fill="#ff8a1e" font-family="Segoe UI, Arial, sans-serif" font-size="16">Followers</text>
-  <text x="560" y="142" text-anchor="middle" fill="#ffd9a0" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">7</text>
-  <rect x="670" y="70" width="180" height="100" rx="16" fill="#1a0d0b" stroke="#ff4d1c" stroke-opacity="0.45" />
-  <text x="760" y="108" text-anchor="middle" fill="#ff8a1e" font-family="Segoe UI, Arial, sans-serif" font-size="16">Following</text>
-  <text x="760" y="142" text-anchor="middle" fill="#ffd9a0" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">13</text>
-  <rect x="270" y="196" width="580" height="56" rx="14" fill="#1a0d0b" />
-  <text x="300" y="232" fill="#e8c8a8" font-family="Segoe UI, Arial, sans-serif" font-size="20">Focus: machine learning, applied AI, and interactive systems</text>
+<svg viewBox="0 0 760 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg" cx="80%" cy="30%" r="90%">
+      <stop offset="0%" stop-color="#220a04"/>
+      <stop offset="100%" stop-color="#050202"/>
+    </radialGradient>
+    <linearGradient id="flameGrad" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#ff3d12" stop-opacity="0.95"/>
+      <stop offset="55%" stop-color="#ff8a1e" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#ffd27a" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffd9a0"/>
+      <stop offset="100%" stop-color="#ff4d1c"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="760" height="230" rx="14" fill="url(#bg)"/>
+  <rect x="0.75" y="0.75" width="758.5" height="228.5" rx="14" fill="none" stroke="#3d0a05" stroke-width="1.5"/>
+
+  <text x="28" y="38" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18"
+    font-weight="700" fill="url(#titleGrad)" filter="url(#glow)" letter-spacing="1">cursed_stats.exe</text>
+
+  <!-- left column: numbers -->
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="28" y="80" font-size="30" font-weight="700" fill="#ffd9a0">261</text>
+    <text x="28" y="100" font-size="12" fill="#9c5a3a">contributions / yr</text>
+
+    <text x="28" y="140" font-size="30" font-weight="700" fill="#ff8a3c">4</text>
+    <text x="28" y="160" font-size="12" fill="#9c5a3a">current streak (days)</text>
+
+    <text x="28" y="200" font-size="30" font-weight="700" fill="#ffd9a0">18</text>
+    <text x="28" y="220" font-size="12" fill="#9c5a3a">longest streak (days)</text>
+  </g>
+
+  <!-- center: the responsive flame, height driven by current_streak -->
+  <g transform="translate(255,205)" filter="url(#glow)">
+    <path d="M -22,0 C -26,-17 4,-14 -6,-31 C 22,-16 18,-6 28,0 Z"
+      fill="url(#flameGrad)" opacity="0.66">
+      <animate attributeName="d" dur="2.4s" repeatCount="indefinite"
+        values="M -22,0 C -26,-17 4,-14 -6,-31 C 22,-16 18,-6 28,0 Z;
+                 M -20,0 C -28,-19 6,-12 -4,-32 C 24,-14 16,-6 26,0 Z;
+                 M -22,0 C -26,-17 4,-14 -6,-31 C 22,-16 18,-6 28,0 Z"/>
+    </path>
+  </g>
+  <text x="255" y="222" text-anchor="middle" font-family="'Courier New', monospace" font-size="10"
+    fill="#9c5a3a">22 repos · 11&#9733;</text>
+
+  <!-- right column: top languages -->
+  <g transform="translate(420,55)">
+    <text x="0" y="0" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5"
+      fill="#ff8a3c" letter-spacing="1">TOP LANGUAGES</text>
+    <g transform="translate(0,20)">
+        <g transform="translate(0,0)">
+          <text x="0" y="13" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+            font-size="12.5" fill="#e8c8a8">Jupyter Notebook</text>
+          <text x="300" y="13" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+            font-size="12" fill="#9c5a3a">88.0%</text>
+          <rect x="0" y="19" width="300" height="6" rx="3" fill="#2a0f08"/>
+          <rect x="0" y="19" width="149.6" height="6" rx="3" fill="#DA5B0B"/>
+        </g>
+        <g transform="translate(0,29)">
+          <text x="0" y="13" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+            font-size="12.5" fill="#e8c8a8">TypeScript</text>
+          <text x="300" y="13" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+            font-size="12" fill="#9c5a3a">4.6%</text>
+          <rect x="0" y="19" width="300" height="6" rx="3" fill="#2a0f08"/>
+          <rect x="0" y="19" width="7.8" height="6" rx="3" fill="#3178c6"/>
+        </g>
+        <g transform="translate(0,58)">
+          <text x="0" y="13" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+            font-size="12.5" fill="#e8c8a8">Python</text>
+          <text x="300" y="13" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+            font-size="12" fill="#9c5a3a">3.1%</text>
+          <rect x="0" y="19" width="300" height="6" rx="3" fill="#2a0f08"/>
+          <rect x="0" y="19" width="5.3" height="6" rx="3" fill="#3572A5"/>
+        </g>
+        <g transform="translate(0,87)">
+          <text x="0" y="13" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+            font-size="12.5" fill="#e8c8a8">HTML</text>
+          <text x="300" y="13" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+            font-size="12" fill="#9c5a3a">3.0%</text>
+          <rect x="0" y="19" width="300" height="6" rx="3" fill="#2a0f08"/>
+          <rect x="0" y="19" width="5.1" height="6" rx="3" fill="#e34c26"/>
+        </g>
+        <g transform="translate(0,116)">
+          <text x="0" y="13" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+            font-size="12.5" fill="#e8c8a8">C++</text>
+          <text x="300" y="13" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+            font-size="12" fill="#9c5a3a">0.5%</text>
+          <rect x="0" y="19" width="300" height="6" rx="3" fill="#2a0f08"/>
+          <rect x="0" y="19" width="0.8" height="6" rx="3" fill="#f34b7d"/>
+        </g>
+    </g>
+  </g>
+
+  <text x="28" y="218" font-family="'Courier New', monospace" font-size="9.5"
+    fill="#5c2f1a" opacity="0.8"></text>
 </svg>
