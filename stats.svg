@@ -27,10 +27,10 @@
 
   <!-- left column: numbers -->
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="28" y="80" font-size="30" font-weight="700" fill="#ffd9a0">271</text>
+    <text x="28" y="80" font-size="30" font-weight="700" fill="#ffd9a0">243</text>
     <text x="28" y="100" font-size="12" fill="#9c5a3a">contributions / yr</text>
 
-    <text x="28" y="140" font-size="30" font-weight="700" fill="#ff8a3c">3</text>
+    <text x="28" y="140" font-size="30" font-weight="700" fill="#ff8a3c">4</text>
     <text x="28" y="160" font-size="12" fill="#9c5a3a">current streak (days)</text>
 
     <text x="28" y="200" font-size="30" font-weight="700" fill="#ffd9a0">11</text>
@@ -39,12 +39,12 @@
 
   <!-- center: the responsive flame, height driven by current_streak -->
   <g transform="translate(255,205)" filter="url(#glow)">
-    <path d="M -22,0 C -26,-16 4,-13 -6,-29 C 22,-14 18,-5 28,0 Z"
-      fill="url(#flameGrad)" opacity="0.65">
+    <path d="M -22,0 C -26,-17 4,-14 -6,-31 C 22,-16 18,-6 28,0 Z"
+      fill="url(#flameGrad)" opacity="0.66">
       <animate attributeName="d" dur="2.4s" repeatCount="indefinite"
-        values="M -22,0 C -26,-16 4,-13 -6,-29 C 22,-14 18,-5 28,0 Z;
-                 M -20,0 C -28,-17 6,-12 -4,-30 C 24,-13 16,-6 26,0 Z;
-                 M -22,0 C -26,-16 4,-13 -6,-29 C 22,-14 18,-5 28,0 Z"/>
+        values="M -22,0 C -26,-17 4,-14 -6,-31 C 22,-16 18,-6 28,0 Z;
+                 M -20,0 C -28,-19 6,-12 -4,-32 C 24,-14 16,-6 26,0 Z;
+                 M -22,0 C -26,-17 4,-14 -6,-31 C 22,-16 18,-6 28,0 Z"/>
     </path>
   </g>
   <text x="255" y="222" text-anchor="middle" font-family="'Courier New', monospace" font-size="10"
@@ -59,41 +59,41 @@
           <text x="0" y="13" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
             font-size="12.5" fill="#e8c8a8">Jupyter Notebook</text>
           <text x="300" y="13" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
-            font-size="12" fill="#9c5a3a">89.3%</text>
+            font-size="12" fill="#9c5a3a">89.9%</text>
           <rect x="0" y="19" width="300" height="6" rx="3" fill="#2a0f08"/>
-          <rect x="0" y="19" width="151.8" height="6" rx="3" fill="#DA5B0B"/>
+          <rect x="0" y="19" width="152.8" height="6" rx="3" fill="#DA5B0B"/>
         </g>
         <g transform="translate(0,29)">
           <text x="0" y="13" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
             font-size="12.5" fill="#e8c8a8">TypeScript</text>
           <text x="300" y="13" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
-            font-size="12" fill="#9c5a3a">4.1%</text>
+            font-size="12" fill="#9c5a3a">3.9%</text>
           <rect x="0" y="19" width="300" height="6" rx="3" fill="#2a0f08"/>
-          <rect x="0" y="19" width="7.0" height="6" rx="3" fill="#3178c6"/>
+          <rect x="0" y="19" width="6.6" height="6" rx="3" fill="#3178c6"/>
         </g>
         <g transform="translate(0,58)">
           <text x="0" y="13" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
             font-size="12.5" fill="#e8c8a8">Python</text>
           <text x="300" y="13" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
-            font-size="12" fill="#9c5a3a">2.8%</text>
+            font-size="12" fill="#9c5a3a">2.6%</text>
           <rect x="0" y="19" width="300" height="6" rx="3" fill="#2a0f08"/>
-          <rect x="0" y="19" width="4.8" height="6" rx="3" fill="#3572A5"/>
+          <rect x="0" y="19" width="4.4" height="6" rx="3" fill="#3572A5"/>
         </g>
         <g transform="translate(0,87)">
           <text x="0" y="13" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
             font-size="12.5" fill="#e8c8a8">HTML</text>
           <text x="300" y="13" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
-            font-size="12" fill="#9c5a3a">2.7%</text>
+            font-size="12" fill="#9c5a3a">2.5%</text>
           <rect x="0" y="19" width="300" height="6" rx="3" fill="#2a0f08"/>
-          <rect x="0" y="19" width="4.6" height="6" rx="3" fill="#e34c26"/>
+          <rect x="0" y="19" width="4.2" height="6" rx="3" fill="#e34c26"/>
         </g>
         <g transform="translate(0,116)">
           <text x="0" y="13" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
             font-size="12.5" fill="#e8c8a8">C++</text>
           <text x="300" y="13" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
-            font-size="12" fill="#9c5a3a">0.5%</text>
+            font-size="12" fill="#9c5a3a">0.4%</text>
           <rect x="0" y="19" width="300" height="6" rx="3" fill="#2a0f08"/>
-          <rect x="0" y="19" width="0.8" height="6" rx="3" fill="#f34b7d"/>
+          <rect x="0" y="19" width="0.7" height="6" rx="3" fill="#f34b7d"/>
         </g>
     </g>
   </g>
