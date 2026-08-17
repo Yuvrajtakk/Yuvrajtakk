@@ -27,7 +27,7 @@
 
   <!-- left column: numbers -->
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="28" y="80" font-size="30" font-weight="700" fill="#ffd9a0">238</text>
+    <text x="28" y="80" font-size="30" font-weight="700" fill="#ffd9a0">237</text>
     <text x="28" y="100" font-size="12" fill="#9c5a3a">contributions / yr</text>
 
     <text x="28" y="140" font-size="30" font-weight="700" fill="#ff8a3c">0</text>
